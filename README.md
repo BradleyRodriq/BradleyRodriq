@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - HTML & CSS
 
 ## 📫 How to Reach Me
-- **Email**: [bradley.rodriguez2@yahoo.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/bradley-rodriq/](https://www.linkedin.com/in/yourprofile)
+- **Email**: [bradley.rodriguez2@yahoo.com](mailto:bradley.rodriguez2@yahoo.com)
+- **LinkedIn**: [linkedin.com/in/bradley-rodriq](https://www.linkedin.com/in/bradley-rodriq/)
 
 ## ⚡ Fun Facts
 - I've been in the tourism industry for over 11 years.
@@ -41,12 +41,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📚 Recent Projects
 
-### TravelVibes
+## TravelVibes
 A mock TripAdvisor-like website focusing on local experiences that will match users with experiences based on vibes. Built with Flask, MongoDB, and React.
 
 ![TravelVibesPR](https://github.com/BradleyRodriq/TravelVibesPR)
 
-### AirBnB Clone
+## AirBnB Clone
 A project to clone AirBnB's functionalities using Flask and SQLAlchemy.
 
 ![AirBnB Clone](https://github.com/BradleyRodriq/holbertonschool-AirBnB_clone_v4)
