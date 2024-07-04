@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🌱 What I'm Learning
 - **React Native**: I'm currently learning React Native to build mobile applications.
 - **Docker**: I'm learning Docker to containerize my applications and make them more portable.
-- **FireBase**: I'm learning FireBase to integrate it with my React Native projects.
+- **Firebase**: I'm learning Firebase to integrate it with my React Native projects.
 
 ## 💬 Ask Me About
 - Full-Stack Development
@@ -42,14 +42,14 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 📚 Recent Projects
 
 ## TravelVibes
-A mock TripAdvisor-like website focusing on local experiences that will match users with experiences based on vibes. Built with Flask, MongoDB, and React.
+A mock TripAdvisor-like website focusing on local experiences that will match users with experiences based on vibes. Built with MongoDB, Express.js, React.js, and Node.js.
 
-![TravelVibesPR](https://github.com/BradleyRodriq/TravelVibesPR)
+[![TravelVibesPR](https://img.shields.io/badge/TravelVibesPR-000000?style=for-the-badge&logo=github)](https://github.com/BradleyRodriq/TravelVibesPR)
 
 ## AirBnB Clone
 A project to clone AirBnB's functionalities using Flask and SQLAlchemy.
 
-![AirBnB Clone](https://github.com/BradleyRodriq/holbertonschool-AirBnB_clone_v4)
+[![AirBnB Clone](https://img.shields.io/badge/AirBnB%20Clone-000000?style=for-the-badge&logo=github)](https://github.com/BradleyRodriq/holbertonschool-AirBnB_clone_v4)
 
 ---
 
