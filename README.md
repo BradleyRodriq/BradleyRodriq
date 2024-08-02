@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🔭 What I'm Working On
 - **TravelVibes**: A mock TripAdvisor-like website focusing on local experiences and affordable options in Puerto Rico. Built with MongoDB, Express.js, React.js, and Node.js.
 - **Scheduler**: A project to manage tour scheduling for guides. Built with Python and tkinter.
-- **AirBnB Clone**: A project to clone AirBnB's functionalities using Flask and SQLAlchemy.
+- **GenerAItor**: An AI image generation app using my knowledge with MERN full stack.
 
 ## 🌱 What I'm Learning
 - **React Native**: I'm currently learning React Native to build mobile applications.
