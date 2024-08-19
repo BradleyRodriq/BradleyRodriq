@@ -51,6 +51,11 @@ A project to clone AirBnB's functionalities using Flask and SQLAlchemy.
 
 [![AirBnB Clone](https://img.shields.io/badge/AirBnB%20Clone-000000?style=for-the-badge&logo=github)](https://github.com/BradleyRodriq/holbertonschool-AirBnB_clone_v4)
 
+## Inventory Manager
+A project that serves as a inventory management tool built using django, sqlite, bootstrap and html.
+
+[![Inventory Manager](https://img.shields.io/badge/Inventory%20Manager-000000?style=for-the-badge&logo=github)](https://github.com/BradleyRodriq/inventory-manager)
+
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
