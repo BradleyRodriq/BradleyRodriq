@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - **TravelVibes**: A mock TripAdvisor-like website focusing on local experiences and affordable options in Puerto Rico. Built with MongoDB, Express.js, React.js, and Node.js.
 - **Scheduler**: A project to manage tour scheduling for guides. Built with Python and tkinter.
 - **GenerAItor**: An AI image generation app using my knowledge with MERN full stack.
+- **Inventory Management**: A project to handle stock in a very user friendly interface.
 
 ## 🌱 What I'm Learning
 - **React Native**: I'm currently learning React Native to build mobile applications.
@@ -18,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - MongoDB
 - API Development
 - HTML & CSS
+- Python & Django
 
 ## 📫 How to Reach Me
 - **Email**: [bradley.rodriguez2@yahoo.com](mailto:bradley.rodriguez2@yahoo.com)
