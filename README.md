@@ -58,8 +58,8 @@ A project that serves as a inventory management tool built using django, sqlite,
 
 [![Inventory Manager](https://img.shields.io/badge/Inventory%20Manager-000000?style=for-the-badge&logo=github)](https://github.com/BradleyRodriq/inventory-manager)
 
-[![Inventory Manager](https://img.shields.io/badge/Portfolio%20Website-000000?style=for-the-badge&logo=github)](https://bradleyrodriq.github.io/portfolio/)
-
+## Portfolio Website
+[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-000000?style=for-the-badge&logo=github)](https://bradleyrodriq.github.io/portfolio/)
 
 ---
 
