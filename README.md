@@ -59,6 +59,7 @@ A project that serves as a inventory management tool built using django, sqlite,
 [![Inventory Manager](https://img.shields.io/badge/Inventory%20Manager-000000?style=for-the-badge&logo=github)](https://github.com/BradleyRodriq/inventory-manager)
 
 ## Portfolio Website
+I built my portfolio using the Astro, a modern framework which streamlines static webpage creation.
 [![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-000000?style=for-the-badge&logo=github)](https://bradleyrodriq.github.io/portfolio/)
 
 ---
