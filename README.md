@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📫 How to Reach Me
 - **Email**: [bradley.rodriguez2@yahoo.com](mailto:bradley.rodriguez2@yahoo.com)
-- **LinkedIn**: [linkedin.com/in/bradley-rodriq](https://www.linkedin.com/in/bradley-rodriq/)
+- **LinkedIn**: [linkedin.com/in/bradley-rodriq](https://www.linkedin.com/in/bradleyrodriq/)
 
 ## ⚡ Fun Facts
 - I've been in the tourism industry for over 11 years.
